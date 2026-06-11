@@ -1,0 +1,37 @@
+$primary-color: #10b981;
+$primary-light: #d1fae5;
+$primary-dark: #059669;
+
+$text-color: #333333;
+$text-secondary: #666666;
+$text-light: #999999;
+
+$bg-color: #f5f5f5;
+$bg-white: #ffffff;
+
+$border-color: #eeeeee;
+$divider-color: #f0f0f0;
+
+$font-size-xs: 22rpx;
+$font-size-sm: 24rpx;
+$font-size-base: 28rpx;
+$font-size-lg: 32rpx;
+$font-size-xl: 36rpx;
+$font-size-xxl: 40rpx;
+
+$spacing-xs: 8rpx;
+$spacing-sm: 16rpx;
+$spacing-base: 24rpx;
+$spacing-lg: 32rpx;
+$spacing-xl: 48rpx;
+
+$radius-sm: 8rpx;
+$radius-base: 16rpx;
+$radius-lg: 24rpx;
+$radius-xl: 32rpx;
+
+$shadow-sm: 0 2rpx 8rpx rgba(0, 0, 0, 0.06);
+$shadow-base: 0 4rpx 16rpx rgba(0, 0, 0, 0.08);
+$shadow-lg: 0 8rpx 24rpx rgba(0, 0, 0, 0.12);
+
+$safe-bottom: env(safe-area-inset-bottom);

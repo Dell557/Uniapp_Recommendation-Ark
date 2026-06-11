@@ -1,0 +1,27 @@
+{
+  "name": "中科英才教育",
+  "appid": "__UNI__ZKYCJY",
+  "description": "武汉中科英才教育科技 - 教育类多端应用",
+  "versionName": "1.0.0",
+  "versionCode": "100",
+  "transformPx": false,
+  "h5": {
+    "title": "中科英才教育",
+    "router": {
+      "mode": "hash",
+      "base": "./"
+    },
+    "optimization": {
+      "treeShaking": {
+        "enable": true
+      }
+    }
+  },
+  "mp-weixin": {
+    "appid": "",
+    "setting": {
+      "urlCheck": false
+    },
+    "usingComponents": true
+  }
+}
